@@ -1,7 +1,7 @@
 ### Hello world! I am Avirup Basu. 👋
 
 - 🔭 I’m currently working at [P360](https://www.p360.com/)
-- 🌱 I’m currently learning System engineering
+- 🌱 I’m currently learning System engineering and exploring the world of nano satellites
 - 👯 I’m looking to collaborate on IoT based projects at edge level and python stuffs
 - 💬 Ask me about IoT, Edge intelligence, Python, Robotics, MQTT and anything. I will try my best to answer
 - 📫 How to reach me: <avirup.basu@live.com>
