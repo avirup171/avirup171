@@ -7,8 +7,7 @@
 - 💬 Ask me about **industrial automation**, **Python**, **MQTT**, **robotics**, **telemetry pipelines**, or **edge intelligence**
 - 📫 Reach me at: [avirup.basu@live.com](mailto:avirup.basu@live.com)
 - 🌐 Website: [avirupbasu.dev](https://www.avirupbasu.dev)
-- 📄 Resume: [avirupbasu.dev/resume](https://www.avirupbasu.dev/resume)
-- ⚡ Fun fact: I’m an anime enthusiast, avid cyclist, and I dream of exploring **both poles** one day 🌍❄️
+
 
 ---
 
