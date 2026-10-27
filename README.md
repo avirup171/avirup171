@@ -1,30 +1,29 @@
-### Hello world! I am Avirup Basu 👋
+# Hi, I'm Avirup 👋
 
-- 🚀 I’m the **Founder & CEO of [Blackspektro](https://blackspektro.com)** – building smart solutions in **Industrial IoT, Edge AI**, and **Sustainability (ESG) Analytics**
-- 🛠️ Previously led innovation at **[P360](https://www.p360.com/)**, where I architected products like **Swittons** and **Zing**. I was also the product owner of Swittons. 
-- 🌱 Currently exploring **Rust for edge computing**, **Python**, **autonomous robotics**, and **system-level design**
-- 👯 I’m looking to collaborate on high-impact **IoT**, **edge-native**, and **real-time data processing** projects
-- 💬 Ask me about **industrial automation**, **Python**, **MQTT**, **robotics**, **telemetry pipelines**, or **edge intelligence**
-- 📫 Reach me at: [avirup.basu@live.com](mailto:avirup.basu@live.com)
-- 🌐 Website: [avirupbasu.dev](https://www.avirupbasu.dev)
+Builder from **Siliguri, India**. I spend most of my time where hardware meets software: machines, controllers, edge devices, and the code that makes them talk.
 
+Right now I'm co-founder & CTO at **[Kernopy](https://kernopy.com)**. Before that, I built IoT solutions and enterprise messaging systems for pharma. Along the way I picked up a patent, wrote two books, and published a few research papers.
 
----
+### 🦀 What I care about
+- **Rust** for systems that can't afford to fall over: async runtimes, protocol drivers, embedded scripting, local-first storage
+- **Industrial protocols**: Modbus, OPC UA, MQTT, and making old machines speak modern languages
+- **AI agents**: multi-agent systems, local LLMs, ReAct, LangGraph
+- **Robotics & drones**: robotic arms, multirotors, and simulation environments for robots, drones and aerospace
 
-> Building things that bridge the **physical and digital**.
+### 🛠️ Things I tinker with
+- Desktop apps with **Tauri + React**, including an image viewer and a CAD experiment
+- Motion control and ML on a robotic arm
+- Experimental multirotor builds
 
+### 🧰 Toolbox
+**Rust** · tokio · Python · TypeScript · Go · React · Tauri · MQTT · SQLite · PostgreSQL · TimescaleDB · Kubernetes
 
-<!--
-**avirup171/avirup171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤝 Community
+An organiser of **GDG Siliguri**.
 
-Here are some ideas to get you started:
+### 🏭 Kernopy
+The AI platform for industry. It connects every machine, meter and BMS a site already runs and turns that data into one live model.
+🌐 [kernopy.com](https://kernopy.com) · 💼 [LinkedIn](https://www.linkedin.com/company/kernopy/) · 𝕏 [@KernopyHQ](https://x.com/KernopyHQ) · 📅 [Book a walkthrough](https://calendly.com/kernopy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Find me
+I'm **avirup171** everywhere, except Instagram, where I'm 📸 **[starbridger](https://instagram.com/starbridger)**.
